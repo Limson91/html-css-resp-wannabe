@@ -1,0 +1,13 @@
+@media screen and (max-width: 768px) {
+    .lessons .col {
+        width: 100%;
+    }
+
+    .steps .col {
+        width: 100%;
+    } 
+
+    .col {
+        margin-bottom: 85px;
+    }
+}
