@@ -11,3 +11,23 @@
         margin-bottom: 85px;
     }
 }
+
+
+
+@media screen and (max-width: 480px) {
+    .lesson .col {
+        width: 100%;
+    }
+
+    .steps .col {
+        width: 100%;
+    }
+
+    .col {
+        margin-bottom: 85px;
+    }
+
+    .why-us .col {
+        width: 100%;
+    }
+}
